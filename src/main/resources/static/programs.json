@@ -1,0 +1,59 @@
+[
+  {
+    "title": "Learn more about Hypertension",
+    "media": [
+      {
+        "title": "How Blood Pressure Works?",
+        "type": "video",
+        "icon": "https://img.youtube.com/vi/Ab9OZsDECZw/0.jpg",
+        "url": "https://www.youtube.com/watch?v=Ab9OZsDECZw"
+      },
+      {
+        "title": "What is High Blood Pressure?",
+        "type": "pdf",
+        "icon": "https://www.heart.org/-/media/Images/Logos/Global-Do-No-Edit/Header/AHA_icon.png",
+        "url": "https://www.heart.org/-/media/files/health-topics/answers-by-heart/what-is-high-blood-pressure.pdf"
+      }
+    ]
+  },
+  {
+    "title": "Keep an eye on your Blood Pressure",
+    "media": [
+      {
+        "title": "Understanding Blood Pressure Readings",
+        "type": "video",
+        "icon": "https://img.youtube.com/vi/Ab9OZsDECZw/1.jpg",
+        "url": "https://www.youtube.com/watch?v=Ab9OZsDECZw"
+      },
+      {
+        "title": "What is High Blood Pressure?",
+        "type": "pdf",
+        "icon": "https://www.heart.org/-/media/Images/Logos/Global-Do-No-Edit/Header/AHA_icon.png",
+        "url": "https://www.heart.org/-/media/files/health-topics/answers-by-heart/what-is-high-blood-pressure.pdf"
+      },
+      {
+        "title": "What is High Blood Pressure?",
+        "type": "pdf",
+        "icon": "https://www.heart.org/-/media/Images/Logos/Global-Do-No-Edit/Header/AHA_icon.png",
+        "url": "https://www.heart.org/-/media/files/health-topics/answers-by-heart/what-is-high-blood-pressure.pdf"
+      }
+    ]
+  },
+  {
+    "title": "Make Heart-Healthy Food Choices",
+    "media": [
+      {
+        "title": "How Blood Pressure Works?",
+        "type": "video",
+        "icon": "https://img.youtube.com/vi/Ab9OZsDECZw/0.jpg",
+        "url": "https://www.youtube.com/watch?v=Ab9OZsDECZw"
+      },
+      {
+        "title": "What is High Blood Pressure?",
+        "type": "pdf",
+        "icon": "https://www.heart.org/-/media/Images/Logos/Global-Do-No-Edit/Header/AHA_icon.jpg",
+        "url": "https://www.heart.org/-/media/files/health-topics/answers-by-heart/what-is-high-blood-pressure.pdf"
+      }
+    ]
+  }
+]
